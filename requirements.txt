@@ -1,0 +1,13 @@
+streamlit
+docx2pdf
+pdf2docx
+img2pdf
+pymupdf
+pypdf
+python-docx
+streamlit
+PyPDF2
+streamlit_sortables
+pymupdf
+Pillow
+pdf2docx
